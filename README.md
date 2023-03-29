@@ -1,5 +1,4 @@
 # ws52   Autor
-:wq
-Guardar y Cerrar
 
+Guardar y Cerrar
 
